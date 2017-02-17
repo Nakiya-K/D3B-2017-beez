@@ -1,0 +1,56 @@
+
+
+h1 {
+font-family: 'Courgette', cursive;
+color : #02259C;
+font-size :150px;
+text-align: center;
+margin-top: 0;
+margin-bottom: 2px;
+
+}
+
+h2{
+font-family: 'Courgette', cursive;
+color : #000000;
+font-size :70px;
+margin-left: 30px;
+
+}
+
+
+h3{
+font-family: 'Courgette', cursive;
+color : #000000;
+font-size :70px;
+margin-left: 30px;
+
+}
+
+h4{
+font-family: 'Courgette', cursive;
+  color : #02259C;
+  font-size :70px;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 0px;
+}
+
+
+a{
+  font-family: 'Patrick Hand', cursive;
+  color : #000000;
+  font-size :30px;
+}
+
+#name {
+color : #000000;
+font-family: 'Patrick Hand', cursive;
+font-size :20px;
+text-align: center;
+
+}
+
+body{
+background-color: #F5F0DF;
+}
