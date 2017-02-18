@@ -1,0 +1,174 @@
+
+body {
+background-image:url('abeille03.png')top center no-repeat;
+background-size: cover;
+}
+
+header {
+    overflow: hidden;
+    background: #F2BB6D;
+    height: auto;
+    border-radius: 10px;
+}
+
+#logo {
+    width: 400px;
+    height: 300px;
+    float: left;
+    margin: 10px;
+  }
+
+ol{
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+nav li{
+  display: inline-block;
+}
+
+nav li a{
+  display: block;
+  padding: 1em;
+}
+
+nav ul{
+  display: block;
+  padding: 0em;
+  margin-left: 250px;
+
+
+}
+
+ol li {
+ border: 4px solid #000;
+ padding: 6px;
+ width: 100px;
+ margin: 12px;
+
+}
+
+ li img{
+   width: 100%;
+ }
+
+#colors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2em;
+}
+
+#colors li {
+  height :200px;
+  width : 160px;
+  border-radius: 10px;
+  color : #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 4px solid #000;
+  padding: 2px;
+  margin-left: 10px;
+}
+
+#color-1 {
+ background-color: #FF96F8;
+}
+
+#color-2 {
+ background-color: #96C3FF;
+}
+
+#color-3 {
+ background-color: #F5B45D;
+}
+
+#color-4 {
+ background-color: #7AD681;
+}
+#color-5 {
+ background-color: #B37AD6;
+}
+#color-6 {
+ background-color: #FF4A4A;
+}
+
+footer{
+  background: #F2BB6D;
+  font-size: 30px;
+  text-decoration: none;
+  padding: 0px;
+  border-radius:0px;
+  height: 90px;
+  text-align: left;
+  border-top: 100px;
+
+}
+.name {
+  margin-bottom: 2px;
+  margin-top: 40px;
+}
+.interface{
+  margin-bottom: 2px;
+  margin-top: 2px
+}
+
+.date{
+  margin-top: 2px
+}
+
+video {
+  border : 2em solid #000;
+  border-radius: 1em;
+  display: block;
+  width : 480px;
+  margin: 2em auto;
+}
+
+.page-navigation-block {
+  padding: 0.5em;
+  background: #F2BB6D;
+  overflow: hidden;
+  height: 300px;
+}
+
+.page-navigation-block a {
+  display: block;
+  max-width: 220px;
+  padding: 2em;
+  color: #02259C;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 2px;
+}
+
+.page-navigation-block a img {
+  width : 100%;
+}
+
+.next {
+  float: right;
+}
+
+.previous {
+  float: left;
+}
+
+.cto-link {
+  text-align: center;
+}
+#logo2 {
+    width: 400px;
+    height: 400px;
+    padding-left: 530px;
+  }
+
+.retour{
+  margin-left:10px;
+}
